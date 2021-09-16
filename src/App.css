@@ -1,0 +1,24 @@
+.custom-container {
+  max-width: 720px;
+}
+
+.custom-h1 {
+  margin-top: 1rem;
+}
+
+.custom-required {
+  color: #dc3545;
+}
+
+.custom-error {
+  margin-top: 0.5rem;
+  color: #dc3545;
+}
+
+.custom-button-box {
+  display: flex;
+}
+
+.custom-button {
+  margin-right: 0.5rem;
+}
