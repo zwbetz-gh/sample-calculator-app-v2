@@ -80,7 +80,7 @@ function App() {
 
   return (
     <div className="container custom-container">
-      <h1 className="custom-h1">Sample Calculator App</h1>
+      <h1 className="custom-h1">{process.env.REACT_APP_TITLE}</h1>
 
       {loading && spinner}
 

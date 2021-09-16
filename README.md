@@ -2,7 +2,7 @@
 
 ## Demo URL
 
-TODO
+<https://sample-calculator-app-v2.netlify.app/>
 
 ## Setup
 
