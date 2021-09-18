@@ -10,13 +10,18 @@
 
 1. Install NodeJS version 14 or higher
 1. Install dependencies
-    ```
-    npm install
-    ```
+
+        npm install
+
 
 ## Run
 
 1. Start the app at `http://localhost:3000`
-    ```
-    npm start
-    ```
+
+        npm start
+
+## Built With
+
+- [Create React App](https://github.com/facebook/create-react-app)
+- [React Hook Form](https://react-hook-form.com/)
+- [Bootstrap](https://getbootstrap.com/)
